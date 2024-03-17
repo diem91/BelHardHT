@@ -50,4 +50,4 @@ elif penny % 10 in [2, 3, 4] and penny % 100 not in [12, 13, 14]:
     pennies = f' {penny} копейки'
 else:
     pennies = f' {penny} копеек'
-print(rubles+pennies)
+print(rubles + pennies)
